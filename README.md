@@ -40,25 +40,25 @@ This project includes:
 ## Experimental Videos
 **Protocol 1**
 
-<img src="./Assets/Videos/protocol_1.gif"  width="30%" height="30%">
+<img src="./Assets/Videos/protocol_1.gif"  width="40%" height="40%">
 
 Parameters: the distance between the transmitter and the receiver is 2 m; the initial distance between the receiver and the laser spot is 10 cm.
 
 **Protocol 1 with 256 microstepping**
 
-<img src="./Assets/Videos/protocol_1_256_microstep.gif"  width="30%" height="30%">
+<img src="./Assets/Videos/protocol_1_256_microstep.gif"  width="40%" height="40%">
 
 **Protocol 2 with 1 cm/s receiver speed**
 
-<img src="./Assets/Videos/1cm_s.gif"  width="30%" height="30%">
+<img src="./Assets/Videos/1cm_s.gif"  width="40%" height="40%">
 
 **Protocol 2 with 5 cm/s receiver speed**
 
-<img src="./Assets/Videos/5cm_s.gif"  width="30%" height="30%">
+<img src="./Assets/Videos/5cm_s.gif"  width="40%" height="40%">
 
 **Protocol 2 with 10 cm/s receiver speed**
 
-<img src="./Assets/Videos/10cm_s.gif"  width="30%" height="30%">
+<img src="./Assets/Videos/10cm_s.gif"  width="40%" height="40%">
 
 ## Bill of Materials
 For researchers in China, you can purchase the components in the following links:
