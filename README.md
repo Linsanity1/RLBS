@@ -1,6 +1,6 @@
 # Receiver Localization and Beam Steering
 [![License](https://img.shields.io/github/license/Linsanity1/RLBS.svg)](https://github.com/Linsanity1/RLBS/LICENSE.md)
-[![Github All Releases](https://img.shields.io/github/downloads/Linsanity1/RLBS/releases/tag/v1.0.svg)](https://github.com/Linsanity1/RLBS/releases/tag/v1.0)
+[![Github All Releases](https://img.shields.io/github/downloads/totalLinsanity1/RLBS/total.svg)](https://github.com/Linsanity1/RLBS/releases/tag/v1.0)
 [![Visits Badge](https://badges.strrl.dev/visits/Linsanity1/RLBS)](https://github.com/Linsanity1/RLBS)
 
 This project is the implementation of our proposed scheme of receiver localization and beam steering. With the 3D printing models and the source code, you can replicate the findings in our paper.
