@@ -1,4 +1,5 @@
 # Receiver-Localization-and-Beam-Steering
+[![Visits Badge](https://badges.strrl.dev/visits/Linsanity1/RLBS)](https://github.com/Linsanity1/RLBS)
 
 This project is the implementation of our proposed scheme of receiver localization and beam steering. With the 3D printing models and the source code, you can replicate the findings in our paper.
 
@@ -32,7 +33,7 @@ This project includes:
 ```
 
 ## Preparation
-- To get started, you need to have two stepper motors, two motor controllers, Raspberry Pi 4B+ with Camera module v2 (or other computers and cameras, but the code needs modification), an infrared filter, an infrared laser (e.g., 100 mW, 808nm), and two laser mirros.
+- To get started, you need to have two stepper motors, two motor controllers, Raspberry Pi 4B+ with Camera module v2 (or other computers and cameras, but the code needs modification), an infrared filter, an infrared laser (e.g., 100 mW, 808nm), and two laser mirrors.
 - Manufacture the 3D-printing models and the PCB, and assemble everything.
 - Setup the python environment on Raspberry Pi. See [Ref](https://www.youtube.com/watch?v=QzVYnG-WaM4&t=2s).
 - Test the system performance with `main.py`, `protocol_1.py`, or `protocol_2.py`.
@@ -75,4 +76,11 @@ For researchers in China, you can purchase the components in the following links
 
 For researchers outside China, you can purchase similar components on other platforms, and feel free to contact me if you have any question.
 
-## 
+## Other Info.
+Author: Minshen Lin and Wenxing Zhong
+
+Email: linminshen@zju.edu.cn, wxzhong@zju.edu.cn
+
+Institution: Zhejiang University
+
+External link: The link of the paper will be updated after publication.
