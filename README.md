@@ -33,9 +33,10 @@ This project includes:
 ```
 
 ## Preparation
-- To get started, you need to have two stepper motors, two motor controllers, Raspberry Pi 4B+ with Camera module v2 (or other computers and cameras, but the code needs modification), an infrared filter, an infrared laser (e.g., 100 mW, 808nm), and two laser mirrors.
+- To get started, you need to have two stepper motors, two motor controllers, Raspberry Pi 4B with Camera module v2 (or other computers and cameras, but the code needs modification), an infrared filter, an infrared laser (e.g., 100 mW, 808nm), and two laser mirrors.
 - Manufacture the 3D-printing models and the PCB, and assemble everything.
 - Setup the python environment on Raspberry Pi. See [Ref](https://www.youtube.com/watch?v=QzVYnG-WaM4&t=2s).
+- Download the code on your Raspberry Pi.
 - Test the system performance with `main.py`, `protocol_1.py`, or `protocol_2.py`.
 
 ## Experimental Videos
