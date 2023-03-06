@@ -25,11 +25,11 @@ This project includes:
 │   │   ├── ReceivedPoints.py         <- class for discerning the receiver from the captured 5 points
 │   │   ├── StepperMotor.py           <- motor controller class
 │   │   └── tracker.py                <- tracker class
-├── Hardware
+├── Hardware                          <- hardware design models
 │   ├── 3D-Printing Models
 │   └── Printed Circuit Board
 ├── Assets
-│   ├── Images
+│   ├── Images.                       <- images and experimental videos for the protocols
 │   └── Videos
 └── README.md
 ```
