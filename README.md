@@ -70,7 +70,7 @@ Parameters: the distance between the transmitter and the receiver is 2 m; the in
 For researchers in China, you can purchase the components in the following links:
 - [Stepper Motor](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8d1TXj6z&id=600124844336&_u=528s2ekd5bd1)
 - [Motor Controller](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8d1TXj6z&id=673302946671&_u=528s2ekd75e7)
-- [Raspberry Pi 4B+](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8dekqXXo&id=596761703325&_u=528s2ekdece8)
+- [Raspberry Pi 4B](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8dekqXXo&id=596761703325&_u=528s2ekdece8)
 - [Raspberry Pi Camera Module v2](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8dekqXXo&id=531388836999&_u=528s2ekdae12)
 - [Infrared Filter](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8d39Q22d&id=41482304810&_u=528s2ekdcfbc)
 - [Infrared Laser](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52632e8d1TXj6z&id=597192207671&_u=528s2ekd5970)
