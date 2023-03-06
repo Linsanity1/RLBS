@@ -3,7 +3,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Linsanity1/RLBS/total.svg)]()
 [![Visits Badge](https://badges.strrl.dev/visits/Linsanity1/RLBS)](https://github.com/Linsanity1/RLBS)
 
-This project is the implementation of our proposed scheme of receiver localization and beam steering. With the 3D printing models and the source code, you can replicate the findings in our paper.
+This project is the implementation of our proposed scheme of receiver localization and beam steering. With the hardware design models and the source code, you can replicate the findings in our paper. If you require any further information or if we can be of any assistance, feel free to contact us by creating an [issue](https://github.com/Linsanity1/RLBS/issues) or send us emails.
 
 <img src="./Assets/Images/stand_and_receiver.png"  width="70%" height="70%">
 
@@ -79,7 +79,9 @@ For researchers in China, you can purchase the components in the following links
 - [PCB Manufacturing](https://www.jlc.com/)
 - [3D Printing](https://www.sanweihou.com/)
 
-For researchers outside China, you can purchase similar components on other platforms, and feel free to contact me if you have any question.
+For researchers outside China, you can purchase similar components on other platforms, if you need 
+
+If we can be of any assistance or if you require any further information, feel free to contact us.
 
 ## Other Info.
 Author: Minshen Lin and Wenxing Zhong
