@@ -42,25 +42,27 @@ This project includes:
 - Test the system performance with `main.py`, `protocol_1.py`, or `protocol_2.py`.
 
 ## Experimental Videos
-**Protocol 1**
+### Protocol 1
+***With 16 microstepping***
 
 <img src="./Assets/Videos/protocol_1.gif"  width="40%" height="40%">
 
 Parameters: the distance between the transmitter and the receiver is 2 m; the initial distance between the receiver and the laser spot is 10 cm.
 
-**Protocol 1 with 256 microstepping**
+***With 256 microstepping***
 
 <img src="./Assets/Videos/protocol_1_256_microstep.gif"  width="40%" height="40%">
 
-**Protocol 2 with 1 cm/s receiver speed**
+### Protocol 2
+***With 1 cm/s receiver speed***
 
 <img src="./Assets/Videos/1cm_s.gif"  width="40%" height="40%">
 
-**Protocol 2 with 5 cm/s receiver speed**
+***With 5 cm/s receiver speed***
 
 <img src="./Assets/Videos/5cm_s.gif"  width="40%" height="40%">
 
-**Protocol 2 with 10 cm/s receiver speed**
+***With 10 cm/s receiver speed***
 
 <img src="./Assets/Videos/10cm_s.gif"  width="40%" height="40%">
 
