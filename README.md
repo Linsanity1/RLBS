@@ -28,8 +28,8 @@ This project includes:
 ├── Hardware                          <- hardware design models
 │   ├── 3D-Printing Models
 │   └── Printed Circuit Board
-├── Assets
-│   ├── Images.                       <- images and experimental videos for the protocols
+├── Assets                            <- images and experimental videos for the protocols
+│   ├── Images
 │   └── Videos
 └── README.md
 ```
